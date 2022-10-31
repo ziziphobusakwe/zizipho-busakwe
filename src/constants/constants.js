@@ -4,8 +4,8 @@ export const projects = [
     description: "Single-page web app curated to introduce myself as an emerging software engineer, to highlight my tech stack and to showcase some of the work that I have done so far",
       image: '/images/1.png',
       tags: ['React', 'Next.js', 'JavaScript'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+    source: 'https://zizipho-busakwe-dev.vercel.app/',
+    visit: 'https://github.com/ziziphobusakwe/zizipho-busakwe',
     id: 0,
   },
 ];
