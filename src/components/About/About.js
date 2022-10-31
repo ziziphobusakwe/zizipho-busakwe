@@ -55,7 +55,7 @@ const Timeline = () => {
       Since September 2021, I have been investing time to build on my tech skills through a self-directed & project based Software Engineering 16-month Program at WeThinkCode_. <br></br> <br></br>
 
 
-I am now proficient in Java & Python in addition to a working knowledge of SQL, CSS, HTML & Java Script. I am mostly interested in work that involves backend development, cloud computing and/or data science, while keeping an open mind to other opportunities. I am very excited for the opportunity to work in a forward thinking, diverse & excellent company like SovTech.<br></br> <br></br>
+I am now proficient in Java & Python in addition to a working knowledge of SQL, CSS, HTML & Java Script. I am mostly interested in work that involves backend development, cloud computing and/or data science, while keeping an open mind to other opportunities.<br></br> <br></br>
 
 I am a matured and responsible young lady who communicates well & knows how to deliver & be helpful in a team. <br></br> <br></br>
 
